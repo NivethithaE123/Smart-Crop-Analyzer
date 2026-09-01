@@ -1,0 +1,6 @@
+{
+  "name": "Smart Crop Analyzer",
+  "description": "Machine learning powered crop recommendation and soil analysis platform predicting optimal crops based on soil nutrients, pH, moisture, and climate parameters.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
