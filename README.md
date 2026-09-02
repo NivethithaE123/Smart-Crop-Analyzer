@@ -1,4 +1,4 @@
-# 🌱 AI-Based Smart Crop Analyzer
+# 🌱 Smart Crop Analyzer
 
 An **AI-powered web application** that helps farmers and agricultural users make better crop-related decisions by analyzing environmental and agricultural parameters. The system uses **Machine Learning** to predict crop yield and recommend suitable crops based on the given conditions.
 
@@ -6,7 +6,7 @@ An **AI-powered web application** that helps farmers and agricultural users make
 
 Agricultural productivity depends on several environmental factors such as **soil moisture, temperature, humidity, and rainfall**. Choosing a suitable crop based on these conditions can improve productivity and reduce the risk of poor crop selection.
 
-The **AI-Based Smart Crop Analyzer** analyzes these parameters and provides:
+The **Smart Crop Analyzer** analyzes these parameters and provides:
 
 * 🌾 **Crop Recommendation**
 * 📊 **Crop Yield Prediction**
