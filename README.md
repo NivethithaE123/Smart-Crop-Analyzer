@@ -100,7 +100,3 @@ The system provides:
 ## ⭐ Conclusion
 
 The **AI-Based Smart Crop Analyzer** combines Machine Learning and web technologies to provide useful crop recommendations and yield predictions. By analyzing important environmental and agricultural parameters, the system aims to support smarter and more informed crop selection and agricultural planning.
-
-
-## The link
-https://smart-crop-analyzer.ai.studio
